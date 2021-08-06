@@ -1,0 +1,1 @@
+1. Stationarity means stability in any aspects of a variable,homoscedasticity means stability in the variance (and in the mean). a stationary process is homoscedastic, but a homoscedastic process is not necessarily stationary.
